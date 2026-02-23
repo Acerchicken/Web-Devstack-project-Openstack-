@@ -93,7 +93,3 @@ zun list
 
 ```
 
-
-* Dùng **Terraform** để viết code tự động tạo Container trên OpenStack thay vì gõ lệnh `zun create`.
-
-**Bạn có muốn mình gửi cho bạn file mẫu Terraform để tự động hóa bước tạo Container này không?**
