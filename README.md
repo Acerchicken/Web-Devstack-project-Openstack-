@@ -1,6 +1,6 @@
 # Web-Devstack-project-Openstack-
 
-Dự án **Multi-tier Web Application** (Frontend & Backend) chạy trên **OpenStack Zun**, kèm theo cách trình bày để ghi điểm vào CV.
+Dự án **Multi-tier Web Application** (Frontend & Backend) chạy trên **OpenStack Zun**.
 
 ### Bước 1: Chuẩn bị máy ảo (VM)
 
